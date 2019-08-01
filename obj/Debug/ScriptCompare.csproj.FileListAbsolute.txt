@@ -1,0 +1,7 @@
+C:\Users\sbwhi0\source\repos\ScriptCompare\bin\Debug\ScriptCompare.exe.config
+C:\Users\sbwhi0\source\repos\ScriptCompare\bin\Debug\ScriptCompare.exe
+C:\Users\sbwhi0\source\repos\ScriptCompare\bin\Debug\ScriptCompare.pdb
+C:\Users\sbwhi0\source\repos\ScriptCompare\obj\Debug\ScriptCompare.csprojAssemblyReference.cache
+C:\Users\sbwhi0\source\repos\ScriptCompare\obj\Debug\ScriptCompare.csproj.CoreCompileInputs.cache
+C:\Users\sbwhi0\source\repos\ScriptCompare\obj\Debug\ScriptCompare.exe
+C:\Users\sbwhi0\source\repos\ScriptCompare\obj\Debug\ScriptCompare.pdb
